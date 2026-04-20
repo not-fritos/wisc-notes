@@ -98,6 +98,8 @@ First Author’s Name, Initials, and Last Name, Second Author’s Name, Initials
 - Longer paragraph about related work in TEI (also CHI, ISLS)
 - 3 sentences on how they work - control voltage, 1v/oct, and “sound”
 - 2 sentences on why a good model to answer this question
+
+Modular synthesizers are instruments that are capable of creating electronic music using modular parts to create custom signal paths. They were simultaneously developed independently by two musicians, Don Buchla and Robert Moog and transformed the music scene starting in the 1960s. The modular nature of independent components enabled incredible degrees of creative freedom and presented an emphasis on building "a system or a set of rules which, once set in motion, will create music for you."
 ### Theory building (DBR?)
 - Design, scaffolding, and theory - clear DBR project
 - Design: TEI, CHI, etc.

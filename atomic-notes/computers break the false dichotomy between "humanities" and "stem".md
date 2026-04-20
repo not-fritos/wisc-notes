@@ -7,6 +7,9 @@
 > [!PDF|note] [[Mindstorms.pdf#page=72&selection=55,44,63,51&color=note|Mindstorms, p.72]]
 > > In LOGO environments we have done some blurring of boundaries: No particular computer activities are set aside as "learning mathematics."
 
+> [!PDF|note] [[Mindstorms.pdf#page=201&selection=4,0,91,1&color=note|Mindstorms, p.201]]
+> > THE VISION I HA VE PRESENTED is of a particular computer culture, a mathetic one, that is, one that helps us not only to learn but to learn about learning. I have shown how this culture can humanize ilearning by permitting more personal, less alienating relationships with knowledge and have given some examples of how it can improve relationships with other people encountered in the le.arning process: fellow students and teachers. But I have made only passing remarks about the social context in which this learning might take place.
+
 
 ---
 [[false dichotomy between "humanities" and "stem"]]

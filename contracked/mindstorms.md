@@ -61,3 +61,6 @@ Seymour Papert
 
 ## images of the learning society
 
+- [[is school the best place for learning?]]
+	- [[The samba school in Brazil is an interesting case study in informal learning cultures]]
+	- 
