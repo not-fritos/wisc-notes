@@ -1,6 +1,10 @@
-# Mindstorms
-#literature #todo 
-
+---
+dg-publish: true
+dg-home: true
+tags:
+  - literature
+  - todo
+---
 Seymour Papert
 
 ## computers and computer culture
