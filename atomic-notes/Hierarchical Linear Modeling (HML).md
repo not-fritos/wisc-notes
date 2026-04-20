@@ -1,0 +1,6 @@
+
+> [!PDF|other] [[Kapur - 2008 - Productive Failure.pdf#page=16&selection=104,0,106,14&color=other|Kapur - 2008 - Productive Failure, p.393]]
+> > The purpose of the hierarchical linear modeling was to understand differences in the group-to-individual transfer effects between participants from the WS and IS conditions.
+
+> [!PDF|other] [[Kapur - 2008 - Productive Failure.pdf#page=26&selection=38,46,48,33&color=other|Kapur - 2008 - Productive Failure, p.403]]
+> > LM was deemed to be the more appropriate analyses because the post-test individual performances were not independent observations (even though the post-tests were taken individually) simply due to the collaboration that preceded it (Raudenbush & Bryk, 2002). A lack of independence of observations, therefore, ruled out the simpler and commonly used statistical procedures such as ANCOVAs and MANCOVAs because they assume independence of observations (Stevens, 2002). If one were to ignore this assumption and carry out ANCOVAs and MANCOVAs on a nested data set such as this one, it would have resulted in biased parameter estimates and consequently, results that turn out to be significant when in fact they may not be (Raudenbush & Bryk, 2002).

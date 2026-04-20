@@ -1,0 +1,4 @@
+
+> [!PDF|note] [[Kapur - 2008 - Productive Failure.pdf#page=24&selection=18,0,25,69&color=note|Kapur - 2008 - Productive Failure, p.401]]
+> > The measure of group performance was operationalized as the quality of solution produced by the group. This was initially problematic because there were no objectively right or wrong answers to the problem scenarios. However, in consultation with the teacher experts, the strategy adopted was to focus on the extent to which groups were able to support their decisions through a synthesis of both qualitative and quantitative arguments, and supporting them with justifiable assumptions. The extent to which groups were able to accomplish this was rated on a scale from 0 to 4 points in units of 0.5 using a holistic rubric shown in Table 4.
+> > 

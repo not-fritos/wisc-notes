@@ -1,0 +1,3 @@
+
+> [!PDF|note] [[Kapur - 2008 - Productive Failure.pdf#page=5&selection=34,26,40,72&color=note|Kapur - 2008 - Productive Failure, p.382]]
+> > On the other hand, without such a lock-in, learners may explore, struggle, and even fail at solving ill-structured problems. The process may well be less efficient in the shorter term but it may also allow for learning that is potentially more flexible and adaptive in the longer term. Persisting with such a process may engender increasingly high levels of complexity in the exploration of the problem and solution spaces. In turn, this build-up of complexity may allow for learning that is potentially more flexible and adaptive (Kauffman, 1995).

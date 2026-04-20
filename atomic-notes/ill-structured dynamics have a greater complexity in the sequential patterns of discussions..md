@@ -1,0 +1,3 @@
+
+> [!PDF|note] [[Kapur - 2008 - Productive Failure.pdf#page=19&selection=20,57,29,1&color=note|Kapur - 2008 - Productive Failure, p.396]]
+> > This suggests a greater complexity in the interactional dynamics of IS than WS groups. This is because the greater the number of significant transitions and feedback loops, the greater the number of possibilities in which the discussion could unfold from any given point in the discussion. Of course, an intuitive way of understanding this is to realize that the greater the number of interactions between the components (functional categories) of a given system (group discussion), the greater is its complexity. This measure was derived from Kauffman’s (1995) measure of complexity for the evolution of Boolean networks.

@@ -1,0 +1,12 @@
+[[10-The second sound of integrity _ Seismograf.pdf]]
+- its an audio essay with some interesting editing that builds on top of the message
+- low drumming sounds
+- repetition / record scratching like dj
+- "it feels like the horror that it is" keeps recurring
+- "really just trying to make sense, its too much, its this rage of like"
+- increasing intensity with the echoing of those two quotes almost like iterating or like its the only thing left / most important part
+- separated into at least 2 acts with a silence and then a tonal shift into a song around 4:00
+- "what is integrity doing for me?"
+- its a mix of different musics
+- its really tiring to be like always on, but who has my back
+- im always making sure nothing falls through the cracks

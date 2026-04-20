@@ -1,0 +1,6 @@
+
+> [!PDF|note] [[Kapur - 2008 - Productive Failure.pdf#page=35&selection=36,67,49,1&color=note|Kapur - 2008 - Productive Failure, p.412]]
+> > The target domain of Newtonian kinematics is itself a fairly well-structured domain. It consists of a finite set of parameters (e.g., mass, displacement, velocity, acceleration, time) interacting with each other in a pre-defined and predictive manner (e.g., the three equations, laws of motion). In other words, this target domain consists of processes that are ontologically direct. Hence, it is problematic to extend the findings from this study to target domains that are not as well-structured, for example, target domains that consist of processes that are ontologically emergent.
+
+> [!PDF|note] [[Kapur - 2008 - Productive Failure.pdf#page=36&selection=8,0,13,66&color=note|Kapur - 2008 - Productive Failure, p.413]]
+> > Indeed, Chi (2005) argues that when conceptions of direct processes are extended to understand emergent processes, they may not only lead to misconceptions of the emergent processes but that these misconceptions tend to be highly resistant to instructional intervention as well. This also explains the recent push in the learning sciences to investigate how learners learn and come to understand complex systems and emergent processes (Jacobson & Wilensky, 2006)

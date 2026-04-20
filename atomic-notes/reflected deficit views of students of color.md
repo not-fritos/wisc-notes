@@ -1,0 +1,4 @@
+> [!PDF|note] [[Allen & Eisenhart (2017).pdf#page=13&selection=11,0,25,59&color=note|Allen & Eisenhart (2017), p.13]]
+> > It is notable that discourses at both schools reflected deficit views of students of color but in somewhat different ways. Capital’s discourse and practices focused on low academic achievement of Black and Latino/a students as a result of students not being aware of, or at times intentionally choosing not to pursue, advanced opportunities. At Southside, discourse and practices emphasized the school’s responsibility to create opportunities for its Latino/a students and to encourage students to leverage these toward future success.
+> 
+> 

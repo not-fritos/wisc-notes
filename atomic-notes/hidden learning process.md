@@ -1,0 +1,3 @@
+> [!PDF|note] [[Mindstorms.pdf#page=65&selection=439,0,465,3&color=note|Mindstorms, p.65]], [[Mindstorms.pdf#page=66&selection=2,0,42,32&color=note|Mindstorms, p.66]]
+> > The hidden learning process has at least two phases: Already in the preschool years every child first constructs one or more preadult theorizations of the world and then moves toward more adultlike views. And all this is done throu'gh what I have called Piagetian learning, a learning process that has many features the schools should envy: It is effective (all the children get there), it is inexpensive (it seems to require neither teacher nor curriculum development), and it is humane ( the children seem to do it in a carefree spirit without explicit external rewards and punishments).
+

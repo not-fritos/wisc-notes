@@ -1,0 +1,3 @@
+
+> [!PDF|note] [[Kapur - 2008 - Productive Failure.pdf#page=23&selection=11,0,18,60&color=note|Kapur - 2008 - Productive Failure, p.400]]
+> > Convergence was designed as a second measure for understanding emergent patterns in group discussions. A second measure for complexity was necessary for two reasons: first, it provided an additional lens to characterize interactional complexity in group discussions, and second, it provided a means of establishing convergent validity with the first measure presented earlier (Chatterji, 2003). This is particularly important in light of the fact that the two measures of interactional complexity proposed in this study are new, and therefore, at the very least, there is a need for establishing convergent validity between them.
